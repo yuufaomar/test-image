@@ -1,0 +1,15 @@
+ mouse 
+ keypoard 
+ cursor[calamada yar]
+    
+
+ habka daminta labtobka 
+ windhow poqer off
+ restartwindhow x uu
+
+desketop [shashad labtopka ]
+taskpar [qebta hose labtobka 
+
+  minimize [yareen ]
+  maximize [ weyneyn]
+  restore  [kabixid]
